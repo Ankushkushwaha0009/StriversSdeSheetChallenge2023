@@ -1,0 +1,5 @@
+git remote add origin https://github.com/Ankushkushwaha0009/StriversSdeSheetChallenge2023.git
+git branch -M main
+git push -u origin main
+
+
